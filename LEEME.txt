@@ -1,0 +1,1 @@
+Buenas, te he hecho la tarea, como no he ido a esas clases no se exactamente como querias que se hiciera, asi que segui el modelo vista controlador que aprendi con java y lo he adaptado aqui. Espero que esté bien. Al exportar el proyecto y volverlo a importar me daba un fallo , pero externo al programa, asi que entiendo que no deberias tener problema, todo el codigo está.
